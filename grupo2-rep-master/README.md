@@ -22,7 +22,7 @@ Este projeto foi desenvolvido principalmente em Python, Vuejs, Vuetify e Node
 
 ### Passos para rodar o Office View:
 
-![Optional Text](../master/imagens-readme/dashboard2.png)
+![Optional Text](imagens-readme/dashboard2.png)
 
 1- Baixar e instalar o Docker Desktop
 
