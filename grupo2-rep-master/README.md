@@ -103,7 +103,7 @@ Para que as cameras e salas que você criou no seu banco de dados apareçam nas 
 
 - Proposta de Valor e Segmentação de Cliente .[https://miro.com/welcomeonboard/46A0LCMZbfy12xvZEeXBD9DOVoQKzg7TMpqJibBgbphdjMgznfsLhrsxOw3Zk2BU]
 
-- Canvas Modleo C .[https://miro.com/welcomeonboard/y5VnjN7ilwZhenN4tAqoRR6iVdf5ss1FgIqHOoc56TY3gCJcRkDcdCmfqT1lAtzd]
+- Canvas Modelo C .[https://miro.com/welcomeonboard/y5VnjN7ilwZhenN4tAqoRR6iVdf5ss1FgIqHOoc56TY3gCJcRkDcdCmfqT1lAtzd]
 
 - Benchmark .[https://miro.com/welcomeonboard/YznEFhT20jooFgSq9ntfg3zQhrt3BCKNQTb2bGmoLwMlCTLbQ7Rv1uRhVYfSx3JO]
 
